@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+}
+
+table{
+    background-color: khaki;
+}
+
+form{
+    background-color:lightpink;
+}
+
+.container{
+    background-color: bisque;
+}
+
